@@ -1,1 +1,2 @@
-
+| - [Version 0.1a]
+| - Rereleased Astra to the public.
