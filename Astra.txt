@@ -1,2 +1,4 @@
-| - [Version 0.1a]
-| - Rereleased Astra to the public.
+| - [Version 0.4a]
+| + Fixed ESP
+| + Fixed Autofarm not checking already mined rocks         
+| + Fixed Auto Sell
