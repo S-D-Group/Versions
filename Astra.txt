@@ -1,3 +1,8 @@
-| - [Version 0.5a]
-| + Ore ESP
-| + Webhook   
+| - [Version 0.6a]
+| + Main Auto Quest
+| + Forge Plus
+| + Kill Nearby Enemies (Farming)
+| + Advanced Auto Selling (Keep, Quantity etc.)                                                                                                           
+| + Webhook Notify Quest Completion
+| + Fixed Autofarm
+| + Fixed Auto Skip Ore
