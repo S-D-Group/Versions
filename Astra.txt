@@ -1,8 +1,8 @@
-| - [Version 0.6a]
-| + Main Auto Quest
-| + Forge Plus
-| + Kill Nearby Enemies (Farming)
-| + Advanced Auto Selling (Keep, Quantity etc.)                                                                                                           
-| + Webhook Notify Quest Completion
-| + Fixed Autofarm
-| + Fixed Auto Skip Ore
+| - [Version 0.7a]
+| [The Forge]
+| + Auto Potion & Sell works flawlessly with Farms now           
+| + Auto Claim Daily
+| + Fixed Quest Features
+| + New World
+
+WARNING: IF YOU'RE USING XENO, USE BUNNI.LOL TO USE ASTRA
