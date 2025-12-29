@@ -1,8 +1,13 @@
 | - [Version 0.7a]
-| [The Forge]
-| + Auto Potion & Sell works flawlessly with Farms now           
-| + Auto Claim Daily
-| + Fixed Quest Features
-| + New World
-
-WARNING: IF YOU'RE USING XENO, USE BUNNI.LOL TO USE ASTRA
+| + Auto Skip Ore logic now only skips ores that can contain the ore  / if not it mines the rock fully (to clear out areas
+ 
+| + Auto Bosses [BETA]
+| + Fixed Forge Plus
+| + Angles For Mob Farm
+| + Offsets for Mining
+| + Auto Santa Quest [BETA]
+| + Fixed Auto Enhance
+| + Instant TP for World 3
+| + Keybinds for Main features
+| + Fixed crashing after hopping islands (i
+| + Rock Priority now depends on whatever you click first in the dropdown
