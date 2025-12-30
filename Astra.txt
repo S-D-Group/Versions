@@ -1,4 +1,4 @@
-| - [Version 0.7a]
+| - [Version 0.8a]
 | + Auto Skip Ore logic now only skips ores that can contain the ore  / if not it mines the rock fully (to clear out areas
  
 | + Auto Bosses [BETA]
