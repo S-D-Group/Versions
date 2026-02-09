@@ -1,3 +1,16 @@
-| - [Version 0.14a]
-| + Released Abyss
+| - [Version 0.15a]
+| [Abyss]
+
+- QOL Updates
+
++ Fast Tube fixed
++ Auto Claim Daily/Bestiary/Achievement                       
++ Sell at Weight Threshold
++ Target Mutation & Target Fish is multi now
++ Infinite Oxygen is way better now
++ Auto Favorite Fish
++ Auto Equip Harpoon
++ Auto Respawn
++ Auto Fish Fix & Grinding+
++ Auto Teleport to Fish
 
