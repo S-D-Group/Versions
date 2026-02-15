@@ -1,13 +1,7 @@
-| - [Version 0.16a]
+| - [Version 0.16b]
 | - [Abyss]
 
-| + Target Mutation now ignores Target Fish                   
-| + Auto Ducks & Auto Chest
-| + Auto Quest
-| + Fish ESP
-| + Duck ESP
-| + Fish ESP
-| + Teleports & Custom Teleports
-| + Auto Equip Best Guns & Tubes
-
-| & Alot more
+| + Blatant & Legit Reeling fixed
+| + Auto Collect Fish (OP with Blatant Reeling)                                                                                         
+| + Keybind Menu 
+| / Inf Oxygen or Auto-Selling will not break your streak                
