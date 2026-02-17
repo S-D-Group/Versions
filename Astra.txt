@@ -1,7 +1,14 @@
-| - [Version 0.16b]
+| - [Version 0.16c]
 | - [Abyss]
 
-| + Blatant & Legit Reeling fixed
-| + Auto Collect Fish (OP with Blatant Reeling)                                                                                         
-| + Keybind Menu 
-| / Inf Oxygen or Auto-Selling will not break your streak                
+| + Auto Rejoin
+| + Auto Buy Merchant
+| + Auto Oxygen Pods
+
+| + Inventory Statistics
+| + Custom Teleports
+
+| / Auto Sell Gamepass Support                            
+| / Auto Quest Fixes
+| / ESP Filter by Mutation/Fish
+| / Fish ESP Showing Estimated Value     
