@@ -1,10 +1,4 @@
-| - [Version 0.21a]
-| - [Swing Obby For Brainrots]
+| - [Version 0.22a]
+| - [Sailor Piece]
 
-| + Auto Collect Brainrots
-| + Auto Collect Money
-| + Auto Rebirth
-| + Auto Upgrade Reach Distance
-| + Auto Buy Pods
-| + Auto Upgrade Brainrots                               
-| + Auto Place Brainrots  
+| + Kill From Anywhere
