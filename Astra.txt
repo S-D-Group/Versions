@@ -1,4 +1,4 @@
-| - [Version 0.22a]
+| - [Version 0.22b]
 | - [Sailor Piece]
 
-| + Kill From Anywhere
+| + Auto Quest w/ Kill Aura
